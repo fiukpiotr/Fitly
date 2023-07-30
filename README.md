@@ -6,10 +6,10 @@ Fitly is a versatile, personalized fitness and diet application developed by The
 
 Fitly is brought to you by a team of passionate developers who believe in the power of health and fitness:
 
-- link[@ApictoSole34](https://github.com/ApictoSole34)
-- link[@GrzegorzLozio](https://github.com/GrzegorzLozio)
-- link[@piotr-fiuk](https://github.com/piotr-fiuk)
-- link[@lauthandir](https://github.com/lauthandir)
+- [Bartosz Mazur](https://github.com/ApictoSole34)
+- [Grzegorz Lozio](https://github.com/GrzegorzLozio)
+- [Piotr Fiuk](https://github.com/piotr-fiuk)
+- [Wojciech Walczak](https://github.com/lauthandir)
 
 ## Overview
 
