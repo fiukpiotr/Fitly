@@ -1,3 +1,5 @@
+![Logo](https://github.com/piotr-fiuk/JJDZR11-TheBuggers/blob/main/web-fitly/src/main/resources/static/img/logo/logo.png?raw=true)
+
 # Fitly
 
 Fitly is a versatile, personalized fitness and diet application developed by The Buggers team. Our mission is to provide the most effective and convenient tool that supports users in their journey to a healthier lifestyle, tailored specifically to their personal conditions.
@@ -11,9 +13,11 @@ Fitly is brought to you by a team of passionate developers who believe in the po
 - [Piotr Fiuk](https://github.com/piotr-fiuk)
 - [Wojciech Walczak](https://github.com/lauthandir)
 
+
 ## Overview
 
 Fitly harnesses the power of personalized data to create a unique health and wellness experience. By understanding your personal needs and goals, it customizes a fitness and diet plan just for you. Whether your aim is to lead a healthier lifestyle, Fitly provides the right tools and guidance for you.
+
 
 ### Features
 
@@ -21,9 +25,23 @@ Fitly harnesses the power of personalized data to create a unique health and wel
 
 2. **Customized Diet Plans:** No more generic meal plans. Fitly creates a diet plan to match your fitness goals and dietary preferences. Vegan, Keto, Paleo, or simply balanced - we've got it all.
 
-## Getting Started
 
-Clone this tepo and begin your personalized health and fitness journey today with Fitly!
+## Getting Started
+Must have: Java 8 or higher, Maven, Spring WebSocket plugin
+
+- Clone the repository to your device:
+git clone <repository_link>
+
+- Navigate to the project directory:
+cd <repo_name>
+
+- Run the application using Maven:
+mvn spring-boot:run
+
+- The application will be accessible at: `http://localhost:8080`
+   
+Begin your personalized health and fitness journey today with Fitly!
+
 
 ## Support
 
