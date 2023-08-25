@@ -3,6 +3,10 @@
 # Fitly
 
 Fitly is a versatile, personalized fitness and diet application developed by The Buggers team. Our mission is to provide the most effective and convenient tool that supports users in their journey to a healthier lifestyle, tailored specifically to their personal conditions.
+<br><br>
+<p align="center">
+   <img src="https://github.com/fiukpiotr/Fitly/blob/main/fitly_demo.gif">
+</p>
 
 ## Developers
 
